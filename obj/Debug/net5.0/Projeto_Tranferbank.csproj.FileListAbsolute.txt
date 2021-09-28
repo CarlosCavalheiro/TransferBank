@@ -1,0 +1,16 @@
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.csprojAssemblyReference.cache
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.AssemblyInfoInputs.cache
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.AssemblyInfo.cs
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.csproj.CoreCompileInputs.cache
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.exe
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.deps.json
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.runtimeconfig.json
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.runtimeconfig.dev.json
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.dll
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\ref\Projeto_Tranferbank.dll
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\bin\Debug\net5.0\Projeto_Tranferbank.pdb
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.dll
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\ref\Projeto_Tranferbank.dll
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.pdb
+C:\Users\sn1037463\OneDrive - SESISENAISP - Corporativo\Meu Arquivos\Digital Innovation One\.NET\Projeto_Tranferbank\obj\Debug\net5.0\Projeto_Tranferbank.genruntimeconfig.cache
